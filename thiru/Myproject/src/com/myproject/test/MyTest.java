@@ -8,12 +8,7 @@ public class MyTest {
 		
 		System.out.println("this is my project");
 		System.out.println("this is my project");
-		System.out.println("this is my project");
-		System.out.println("this is my project");
-		System.out.println("this is my project");
-		System.out.println("this is my project");
-		System.out.println("this is my project");
-		System.out.println("this is my project");
+		
 	}
 
 }
